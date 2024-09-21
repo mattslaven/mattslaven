@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+My professional experience has been focused on Supply Chain Management in the high tech and automotive sectors. Of particular concern has been innovation and profit optimization.
+
 <!--
 **mattslaven/mattslaven** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
